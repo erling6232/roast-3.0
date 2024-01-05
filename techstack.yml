@@ -1,7 +1,8 @@
 repo_name: erling6232/roast-3.0
 report_id: 5aee612e78d0373b628899aa50ceaa20
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T07:46:56+00:00'
+timestamp: '2024-01-05T08:57:28+00:00'
 requested_by: aa14av
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/erling6232/roast-3.0
   detection_source: Repo Metadata
 - name: MATLAB
   description: A high-level language and interactive environment for numerical computation,
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg
+  detection_source_url: https://github.com/erling6232/roast-3.0
   detection_source: Repo Metadata
 - name: Scala
   description: A pure-bred object-oriented language that runs on the JVM
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/erling6232/roast-3.0
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/erling6232/roast-3.0
   detection_source: Repo Metadata
 - name: Mathematica
   description: Bringing computation and knowledge to everything. Creators of Mathematica,
@@ -52,6 +57,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4216/Mathematica.png
+  detection_source_url: https://github.com/erling6232/roast-3.0
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -62,4 +68,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/erling6232/roast-3.0
   detection_source: Repo Metadata
